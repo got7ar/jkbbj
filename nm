@@ -1,5 +1,9 @@
 #EXTM3U 
 
+#EXTINF:-1, thma 1
+https://ms-live.servers8.com/live/ch01-fta/index.m3u8?auth_key=1778178034-409e8609406749a4aa46c1229717ab72-0-1afca8ffa2b1661fa5bcb5e00056e378
+
+
 #EXTINF:-1 tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=100" group-logo="https://play-lh.googleusercontent.com/8AgNls4adb1Wsp4ZxGGoaSecwbiBT1wmY1cgRLEwjhltrlS2lNcanpXLT_5IidJpbA=w240-h480-rw" group-title="yes+ Israel" tvg-id="ספורט 5",Sport 5 HD (55)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key={"c3b32b23081b5486ae5176da9c358808":"4708b352ee1d50ccdf94af9d2a952ed8"}
