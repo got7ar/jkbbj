@@ -1,7 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RVtQTed.png" group-title="News",Makan 33 (1080p)
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+
+#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="SPORTS;PIALA DUNIA", SPORTV BRA 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
 
 #EXTINF:-1 tvg-name="HT Spor (Turkey)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",HT Spor Turkey
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
@@ -12,11 +27,7 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="World Cup 2026 - Germany",Das Erste (ARD) (DE)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-#EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS;PIALA DUNIA", TSN 1 🇨🇦
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS;PIALA DUNIA", TSN 2 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -147,10 +158,6 @@ https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
 
 
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="SPORTS;PIALA DUNIA", SPORTV BRA 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="SPORTS;PIALA DUNIA", SPORTV BRA 2
@@ -171,10 +178,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", TELEMUNDO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.yes.co.il/media/cwbnbjzc/55_5sport_white-new.png?quality=100" group-logo="https://play-lh.googleusercontent.com/8AgNls4adb1Wsp4ZxGGoaSecwbiBT1wmY1cgRLEwjhltrlS2lNcanpXLT_5IidJpbA=w240-h480-rw" group-title="yes+ Israel" tvg-id="ספורט 5",Sport 5 HD (55)
