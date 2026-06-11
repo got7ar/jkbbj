@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="Win Sports HD.co" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/Win-sports-2024.webp", Win Sports MPD
-#EXTVLCOPT:network-caching=1000
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e9642526f018477cb5013ef5017913f9":"ee0c7d58101c59e8e895ed6bd011110d"}
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://nagracovoslive.lcdn.claro.net.co
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://nagracovoslive.lcdn.claro.net.co
-https://nagracovoslive.lcdn.claro.net.co/Content/DASH_DASH_NAGRA/Live/Channel(WINSPORTS_HD)/manifest.mpd
-
 
 #EXTINF:-1 tvg-name="HT Spor (Turkey)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",HT Spor Turkey
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
