@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-name="HT Spor (Turkey)" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="FIFA World Cup 2026",HT Spor Turkey
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+
+#EXTINF:-1 tvg-name="Africa 24 Sport" tvg-logo="https://play-lh.googleusercontent.com/02cOT2OqGxeHspSjG_gwTq3DOE7JuFHJKxhhjDnPC7IoHRnNjpq4Vy-naGEjxznqdJUJ=w240-h480-rw" group-title="FIFA World Cup 2026",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="World Cup 2026 - Germany",Das Erste (ARD) (DE)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
