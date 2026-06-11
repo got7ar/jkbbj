@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQei6AMWgj9_BiwXAIX06OKaV--X-QN8WY76DWtSdSthqzgUds-UPlz4&s=10", tvg-name="RTVE SPANISH" group-title="FIFA WC 2026",RTVE SPANISH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+
 #EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", TELEMUNDO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
