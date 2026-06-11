@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co/Qn8zjhn/jojsport.png" group-title="CHANNEL | SPORTS", JOJ Šport 🇸🇰
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
-https://cors-proxy.cluster.fun/https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="ziggo6" tvg-logo="" group-title="PREMIER Y LA LIGA", TELEMUNDO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -67,6 +59,16 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.ibb.co/Qn8zjhn/jojsport.png" group-title="CHANNEL | SPORTS", JOJ Šport 🇸🇰
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
+https://cors-proxy.cluster.fun/https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+
 
 #EXTINF:-1 tvg-id="TSN2 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn2.png" group-title="SPORTS;PIALA DUNIA", TSN 2 🇨🇦
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
