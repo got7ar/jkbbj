@@ -13,32 +13,6 @@ https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 1 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 2 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 1 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 2 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 3 🇩🇪
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Channel 616
 #KODIPROP:inputstream=inputstream.adaptive
@@ -68,6 +42,34 @@ http://go8knm.optikl.ink/X/index.php/Besyria2/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="",Bin max.1
 http://look.5g.in:8080/live/0176436959603/2442668892/1035136.m3u8
+
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 1 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 2 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 1 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 2 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="PIALA DUNIA", FUSSBALL TV 3 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
