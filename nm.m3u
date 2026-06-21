@@ -1,14 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="beinsportsmax2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png" group-title="beIN Sports",beIN Sports Max 2 (1080p Arabic)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ddd6e312db73bcb8e40b38606b6c0db:ce32b826d74b5017ae9d4e5b26f0e9ee
-https://todtv-live-spo-prod.akamaized.net/hdntl=exp=1782089967~acl=*svc-spo-hd-25-dt*!*%2Fad-north%2F*!*%2Fad-west%2F*~id=f7485198-705d-4711-92f1-8fa632f0a7d1~data=hdntl,aXA9MTUxLjI0My44Ny4yNTQsYXVkPW1lbmE~hmac=f241684e3f6fbad7549ae3cb5c27561e75bb3929a015ff27572a8500a1e52027/Content/Channel/svc-spo-hd-25-dt/DASH/playlist_ha.mpd
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Iran 4K
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",beIN 4k+
+https://streamxyz.shop/bein4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",FS1 4K
+https://streamxyz.shop/fs14k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",Tsn4k+
+https://streamxyz.shop/tsn4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
 
 #EXTINF:-1 tvg-id="portugalvsdrcongo1800foxone4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Portugal vs DR Congo 18:00 (FOX ONE 4K)
