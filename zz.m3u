@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="wwe0100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 01:00 (bein)
+#EXTINF:-1 tvg-id="argentinavsaustria1800fifawcfeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa world cup",Argentina vs Austria 18:00 (FIFA WC FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd0dccacaa9732d9a76477d6ba8a2f66:dd26aba71d779b895ee7f570007ce79d
-https://todtv-live-spo-prod.akamaized.net/hdntl=exp=1782168341~acl=*svc-spo-hd-24-dt*!*%2fad-north%2f*!*%2fad-west%2f*~id=f7485198-705d-4711-92f1-8fa632f0a7d1~data=hdntl,aXA9MTUxLjI0My44Ny42NyxhdWQ9bWVuYQ~hmac=40d156a714372531c0083848f6cd70478519f564f076742acca7cbd8ce94a3a1/Content/Channel/svc-spo-hd-24-dt/DASH/playlist_ha.mpd?start=1782139200000&end=1782163800000&live=true&eventid=d6127f7b-0a29-4279-a6d9-3536b450674f&sessid=f3de8f5c91da497d9dcfb64382a82016&assetid=5044373&uuid=f7485198-705d-4711-92f1-8fa632f0a7d1
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd
