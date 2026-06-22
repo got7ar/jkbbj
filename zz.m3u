@@ -4,3 +4,9 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
 https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="englandvsghana2100fifawcfeed" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",England vs Ghana 21:00 (FIFA WC FEED)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@egjcbuq3ejeqccbmwbqvvsecirrjsiafecni01aa/bpk-tv/FIFAWCCh1/output/manifest.mpd
