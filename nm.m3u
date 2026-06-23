@@ -8,6 +8,14 @@ https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png",beIN 4k+
 https://streamxyz.shop/bein4k/index.m3u8?secret=pMA3rIhFNaXkOX5kQ4BfcTu|Referer=https://xyzstreams.shop/
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png", FOX SPORTS 4k
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+
 #EXTINF:-1 tvg-name="FX4k (1-30minutes Before play)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",Fx 4k (1-30minutes Before play)
 https://inproviszon.st/fox4k.m3u8
 #EXTINF:-1 tvg-name="TSN 4 (1-30minutes Before play)" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="Group Viva",TSN 4 (1-30minutes Before play)
