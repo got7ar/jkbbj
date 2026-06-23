@@ -2,11 +2,5 @@
 
 #EXTINF:-1 tvg-id="argentinavsaustria1800fifawcfeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa world cup",Argentina vs Austria 18:00 (FIFA WC FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
-https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="englandvsghana2100fifawcfeed" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",England vs Ghana 21:00 (FIFA WC FEED)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
-https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@egjcbuq3ejeqccbmwbqvvsecirrjsiafecni01aa/bpk-tv/FIFAWCCh1/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4d4ff14d12c23a0abb58a2cc4c562ce2:40289d6cbdffbbe561fc55990792af5e
+https://todtv-live-spo-prod.akamaized.net/hdntl=exp=1782254410~acl=*svc-spo-uhd-07-dt*!*%2fad-north%2f*!*%2fad-west%2f*~id=2bd8b22c-be69-4bea-8742-fb613bae4d19~data=hdntl,aXA9ODQuMjU1LjE3NS4yNDQ~hmac=75fd26323b3ef59221241d0d069bbbc05625c1699fccb192dc64f75182e78d16/Content/Channel/svc-spo-uhd-07-dt/DASH/playlist.mpd?start=1782225600000&end=1782244800000&eventid=e1af6675-2a11-4ec5-925c-f49231b20319&sessid=8af10eeb296c4dcc82705f3bf9484ae1&assetid=5044366&uuid=2bd8b22c-be69-4bea-8742-fb613bae4d19
