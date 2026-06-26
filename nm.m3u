@@ -20,6 +20,17 @@ https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_3_UHD/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC3 (FOX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC4 (TSN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+
 #EXTINF:-1 group-title="Fusstball tv",Fusstball tv 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
