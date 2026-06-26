@@ -68,6 +68,17 @@ https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short
 #KODIPROP:inputstream.adaptive.license_key=912bca702ad54daf89839a1d91f0a460:89906fa33624855dd4a6d9395979c5ae
 https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.mpd
 
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", N SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", MNB SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+
+#EXTINF:-1 tvg-logo="http://pitek.diskon.cloud/gambar/forsat.jpg" group-title="WORLD_CUP", SULD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 91 H265
