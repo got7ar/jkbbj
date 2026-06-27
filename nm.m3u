@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" group-title="WORLD CUP 2026", WC10 (FUSSBALL 100 )
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/iKjXKmmPM2U-Ie2ptSw2R34bJLG46lDSEADf1bYqM_arDwSNh4P0z7cAj8svDtWlGov3z74DWZJa_ZWqGRelmg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" group-title="WORLD CUP 2026", WC10 (FUSSBALL 2222)
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/2acsJ8RMuTcgu6DIyAwHslt-Zp9e5KPIk2a6va2qGPrg6iw7JE6rfFng1IuqKRKOoXwrpqgCwSbY4_mt66lLlQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
-
-#EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" group-title="WORLD CUP 2026", WC10 (FUSSBALL 3333)
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/EjemhRfHL-XUwzTzxGk-8sBgm5vnhayRcldMDPGtSjtxiJ7NhZM6ESMcQh2FBci5ATp8CbtrPH-RYvqnJTFN0g/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1 tvg-id="tvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" group-title="WORLD CUP 2026", WC10 (FUSSBALL 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03","b73f76658d1f5ce38420f380421bafe3":"9ebdbf32f90b546f66603104b2ac3c8a","e1f8fc6898fc5bf7a00b5609af23fee0":"98b7133ee006d9fae111ec0cb366641c","e511fb81360c5f14b681605d1de52046":"ec72f335d0e436ac7dc1d936aea1144a"}
@@ -43,15 +34,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/1555/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"65006bc6637e7a291061f45870a04e81":"0b50bfea6301df542eb9efcca75d5ec8","02b07f6394293c409350cded71ce3654":"9e03072c3b243bbe9aba03fce2f5cfa4"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/1312/1/live.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC3 (FOX)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC4 (TSN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 
 #EXTINF:-1 group-title="Fusstball tv",Fusstball tv 4k
@@ -60,13 +42,6 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v
 #KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e": "17aea325d91b5e66f06a8c574f2f0b03", "b73f76658d1f5ce38420f380421bafe3": "9ebdbf32f90b546f66603104b2ac3c8a", "e1f8fc6898fc5bf7a00b5609af23fee0": "98b7133ee006d9fae111ec0cb366641c", "e511fb81360c5f14b681605d1de52046": "ec72f335d0e436ac7dc1d936aea1144a"}
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-
-
-#EXTINF:-1 group-title="M6",Fifa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
 
 #EXTINF:-1 tvg-logo="httpss/0bdffa47-d6.png" group-title="PIALA DUNIA", Qazsport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -93,36 +68,6 @@ https://cdn.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
 https://cdn.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 91 H265
-#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=845afc4f7a5ac1b60d0962851fcd40ad:05b5e032725a57b16ec2bd4fe67ec6f3
-https://cun-live1-ott.izzigo.tv/6/out/u/dash/VIX-MUNDIAL-91-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 92 H265
-#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ecf2de72f3d8c80a4355abe8e0f2d1b:4ab47cbccf1ea08fa3fd82970795aad5
-https://cun-live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-92-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 93 H265
-#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696435bb1f9b9387866e4d01ab969779:af4bbc01b4e6c0a14279e11451a3e474
-https://cun-live1-ott.izzigo.tv/7/out/u/dash/VIX-MUNDIAL-93-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 94 H265
-#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78535ece7acc58ad362346c7c2fa4cf5:9042221339d28d54428a3e7d0c34bd65
-https://cun-live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-94-HD-H265/default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4vbt216/vix-mundial-2026.png" group-title="MUNDIAL", MUNDIAL 95 H265
-#EXTHTTP:{"Origin":"https://www.izzigo.tv","Referer":"https://www.izzigo.tv/"}
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bfbf27d8a79f7734f720c3af6a63f5fe:d5fcf98fcee1bbdd44104f188d088335
-https://cun-live1-ott.izzigo.tv/8/out/u/dash/VIX-MUNDIAL-95-HD-H265/default.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="WORLD CUP", FIFA WORLD CUP 2026 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -145,4 +90,15 @@ https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC3 (FOX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/xbF5123XmM.jpg" tvg-name="Fox" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-logo="https://da.gd/starlogo" group-title="World Cup 2026", WC4 (TSN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
