@@ -22,6 +22,14 @@ https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_3_UHD/default/index.mpd
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 UHD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1uhd.m3u8
+
+#EXTINF:-1 group-title="PIALA DUNIA" tvg-logo="https://static.promediateknologi.id/crop/0x0njadi-e71.jpeg", FUSSBALL TV 1 HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GvTZ8fjF/wc26nw.png" group-title="WORLD CUP 2026⚽", WORLD CUP 2026
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6a14d4e9a2ec70d060b873622d0fe0a3":"4fe37af81e6be1edf17e2f5e00c67ae4","b18ac06789510949f5fee55ee2274151":"d7b9d6dba05741b1070d8c19743020f9"}
