@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Iran 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belgiumvssenegal2100fs1sports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Belgium vs Senegal 21:00 (FS1 SPORTS 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qwut4prmhj/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="fissbal1" tvg-logo="https://img.bolatv.my.id/group/fussball.jpg" group-logo="https://image-fifa.bolatv.my.id/magenta.webp" group-title="Magenta FIFA WC 2026",Fussball TV 1 HEVC H.265 dvhe 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
@@ -24,10 +34,7 @@ https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"66132eb062115009b127a7901a76bd95":"b553de3ecb805ae9c810dd9ac13b7c62","33785237771a552c8a83fa3954ac0b7a":"e21c3f96d150632e0412d6c83330566b","3e968ec945e8560da5bb39b7cb3c5c0e":"d7f19ae55e394be80064853ce10bffce","fcc18487881d51109a4c3596e8e8833d":"86b7de3fd4136c2059456c8cb21c929c"}
 https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_3_UHD/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Iran 4K
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="FIFA WC 2026",Fox 4K HDR 1
 #KODIPROP:inputstream=inputstream.adaptive
